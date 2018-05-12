@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35943
     wikipedia: http://en.wikipedia.org/wiki/Raymond_A._Palmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32615#The-Hell-Ship
 gutenberg_issued: '2010-05-31'
 gutenberg_type: Text
 identifiers:
