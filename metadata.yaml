@@ -1,0 +1,34 @@
+_repo: The-Hell-Ship_32615
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32615-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Palmer, Ray
+    aliases:
+    - Palmer, Raymond A.
+    - Palmer, R. A.
+    - Palmer, Raymond Alfred
+    birthdate: 1910
+    deathdate: 1977
+    gutenberg_agent_id: '35943'
+    url: http://www.gutenberg.org/2009/agents/35943
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_A._Palmer
+description: ''
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Mutiny -- Fiction'
+- !lcsh 'Science fiction'
+title: The Hell Ship
+url: http://www.gutenberg.org/ebooks/32615
